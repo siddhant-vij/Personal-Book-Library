@@ -1,0 +1,42 @@
+------------------------------------------------------------
+1.Create Database and connect to it
+------------------------------------------------------------
+psql --username=postgres
+
+CREATE DATABASE bookslibrary;
+
+\c bookslibrary;
+
+------------------------------------------------------------
+2. Create tables as required conditions
+------------------------------------------------------------
+
+CREATE TABLE books (
+    book_id SERIAL NOT NULL,
+    isbn VARCHAR(20) NOT NULL,
+    title VARCHAR(50) NOT NULL,
+    author VARCHAR(25) NOT NULL,
+    publication_year INT NOT NULL
+);
+
+------------------------------------------------------------
+3. Primary Key and Foreign Key assignment
+------------------------------------------------------------
+ALTER TABLE books ADD PRIMARY KEY (book_id);
+
+------------------------------------------------------------
+4. Compact sql db queries into bookslibrary.sql file.
+------------------------------------------------------------
+pg_dump -cC --inserts -U postgres bookslibrary > "DB Prep - SQL/bookslibrary.sql"
+
+------------------------------------------------------------
+5.Give executable permission to shell scipt files
+------------------------------------------------------------
+chmod +x insert_data.sh
+chmod +x queries.sh
+
+------------------------------------------------------------
+6.Copy & Run shell script files (NOTE : insert data first)
+------------------------------------------------------------
+./insert_data.sh
+./queries.sh
