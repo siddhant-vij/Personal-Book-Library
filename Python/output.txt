@@ -1,0 +1,456 @@
+Retrieve all books:
+1|777251517-0|nisl ut voluSQLtpat|Onofredo Flay|2023
+2|896108262-0|ligula sit amet|Sheryl Freddi|2011
+3|850460587-6|amet eros suspendisse accumsan|Harlie Gaither|2017
+4|292755239-8|primis insqlsql|Kelley Holston|2018
+5|433154349-8|eu orci|Nolana Rowson|2014
+6|064149064-X|lacinia sapien quis libero|Van Gibbons|2017
+7|316170453-3|sapien ut nunc vestibulum|Rhodie Birth|2016
+8|613510107-2|orci luctus et ultrices|Gasper Hargess|2019
+9|047009075-8|nunc rhoncus SQL dui vel|Van Gibbons|2006
+10|114360697-3|dui maecenas tristique est|Lorie Leer|2020
+11|165726893-4|et tempus semper est|Ninnetta Kinchington|2008
+12|519674924-1|ipsum primis|Van Gibbons|2018
+13|104314908-2|volutpat in|Lorie Leer|2004
+14|558769573-5|orci mauris|Onofredo Flay|2023
+15|211279870-7|nunc rhoncus dui vel|Van Gibbons|2021
+16|625113202-7|mauris non|Koenraad Chessum|2020
+17|026355636-0|justo sit amet|Corrie Ivanov|2004
+18|177051249-7|turpis seSQLd ante|Colline Pervoe|2004
+19|615866873-7|ac enim in tempor|Leann Woliter|2013
+20|504973234-4|ultrices phasellus|Dew Stelfax|2016
+21|705930478-9|libero ut massqlsa|Corrie Ivanov|2012
+22|769312934-0|neque vestibulum eget vulputate|Ashby Crinidge|2018
+23|939665768-9|ipsum dolor sit amet|Leann Woliter|2015
+24|458247781-X|porttitor id|Dane Pomery|2021
+25|288125807-7|vestSQLibulum proin eu mi|Corrie Ivanov|2008
+26|964252289-6|non ligula pellentesque|Candra Raunds|2012
+27|296820126-3|mi integer ac|Dane Pomery|2012
+28|895097231-X|at turpis|Ninnetta Kinchington|2006
+29|124642136-4|blandit non interdum|Thorsten Demaid|2016
+30|441042115-8|tortor duis|Emmett Casotti|2018
+31|951421816-7|consectetuer adipissqlcing elit proin|Candra Raunds|2017
+32|374785876-7|ut at SQL abcsd|Tedman Coulsen|2012
+33|049466735-4|consequat varius|Arny Balden|2004
+34|280578597-5|quis augue luctus|Peta Garrish|2013
+35|978320946-9|pretium iaculis justo|Janna Gurton|2018
+36|325071768-1|primis in faucibus orci|Dana Braden|2011
+37|208589241-8|sit amet consectetuer adipiscing|Rochette Butland|2007
+38|572951942-7|vestibulum ante ipsum primis|Onofredo Flay|2023
+39|588981892-9|ultricies eu|Marshal Gilchrist|2021
+40|768243209-8|lacus morbi sem mauris|Marlane Bennet|2022
+41|958494342-1|sit amet diam SQLin|Brinna Leavesley|2004
+42|630185040-8|sed vestibulum|Rhodie Birth|2018
+43|778264059-8|semper porta sql|Marshal Gilchrist|2012
+44|615032061-8|id mauris vulputate|Rhodie Birth|2023
+45|483485687-9|eget eros|Judy Lyndon|2008
+46|926305168-2|eleifend quam a|Nahum Schott|2023
+47|914966439-5|aliquam erat|Nolana Rowson|2014
+48|498893095-5|congue etiam|Godiva Baptist|2017
+49|282201469-8|tortor id nulla|Marshal Gilchrist|2019
+50|094419547-4|primis in faucibus orci SQL|Onofredo Flay|2023
+51|217513518-7|semper sapien|Rhodie Birth|2012
+52|774845627-5|lectus in est|Minni Fullerd|2019
+53|267506304-5|etiam pretium iaculis|Yance Hinrichsen|2023
+54|719046623-1|tincidunt nulla mollis|Marshal Gilchrist|2015
+55|846426137-3|risus auctor sed|Marshal Gilchrist|2007
+56|754109921-X|ultrices vel|Wynne Phlipon|2022
+57|172136486-2|eu est congue elementum|Constance Shurmore|2016
+58|556319390-X|amet sapien dignissim|Andee Angrock|2008
+59|790901105-9|dui vel nisl duis|Rhodie Birth|2017
+60|733919740-0|pede justo eu massa|Derward Brosch|2005
+61|929593581-0|sql suspendisse accumsan|Marshal Gilchrist|2023
+62|488578645-2|dui vel|Laird Corrao|2012
+63|141951249-8|praesent lectus vestSqlibulum quam|Marigold Ritchings|2004
+64|380296829-8|sagittis sapien|Marshal Gilchrist|2009
+65|864750027-X|ac neque|Emmett Casotti|2018
+66|449401554-7|nulla ultrices aliquet|Nolana Rowson|2014
+67|596132381-1|nonummy integer non|Jamison Bagot|2007
+68|064976413-7|SQL ipsum praesent|Marshal Gilchrist|2005
+69|190419114-2|dapibus duis at|Rhodie Birth|2007
+70|551270535-0|at velit eu|Silvan England|2019
+71|785388611-X|sit amet|Silvan England|2014
+72|574967192-5|mattis odio donec|Ninnetta Kinchington|2018
+73|539393441-6|rhoncus sed vestibulum|Judy Lyndon|2013
+74|701952925-9|est risus auctor|Marshal Gilchrist|2013
+75|604568677-2|aliqsqluam lacus|Silvan England|2013
+76|796922805-4|dapibus duis at|Devina Ellesmere|2010
+77|573585188-8|id justo sit|Rhodie Birth|2006
+78|762188650-1|arcu libero|Jan Manntschke|2004
+79|146566602-8|vel augue vestibulum rutrum|Marshal Gilchrist|2008
+80|658611310-5|praesent blandit|Leann Woliter|2013
+81|464373120-6|sqlpraesent lectus|Noelyn Cargon|2017
+82|327262014-1|vitae nisl aenean|Onofredo Flay|2011
+83|037858720-X|dui vel|Jan Manntschke|2016
+84|837469771-7|id justo sit|Marshal Gilchrist|2008
+85|537081823-1|scelerisque quam turpis adipiscing|Sam Gockeler|2017
+86|044893737-9|accumsan tellus nisi|Noelyn Cargon|2012
+87|452083861-4|morbi a|Jennica Boot|2020
+88|609088513-4|viverra dapibus nulla suscipit|Rhodie Birth|2006
+89|987548411-3|sollicitudin vitae|Rhodie Birth|2018
+90|251712474-4|sociis natoque|Sam Gockeler|2005
+91|116763643-0|quisque ut|Kathy Comiam|2015
+92|227905490-6|augue quam|Feodor Screase|2017
+93|977882490-8|massa quis augue luctus|Jennica Boot|2010
+94|101426589-4|eu mi|Tedman Coulsen|2012
+95|453499910-0|in faucibus orci|Sam Gockeler|2012
+96|011951005-7|SQLlacinia erat vestibulum|Sam Gockeler|2008
+97|933292478-3|id massa|Jennica Boot|2016
+98|121674116-6|vel ipsum|Blair Myner|2018
+99|582483789-9|risus semper porta|Jennica Boot|2022
+100|416144040-5|ipsum integer|Sam Gockeler|2010
+
+
+
+
+
+Find books by a specific author:
+1|777251517-0|nisl ut voluSQLtpat|Onofredo Flay|2023
+14|558769573-5|orci mauris|Onofredo Flay|2023
+38|572951942-7|vestibulum ante ipsum primis|Onofredo Flay|2023
+50|094419547-4|primis in faucibus orci SQL|Onofredo Flay|2023
+82|327262014-1|vitae nisl aenean|Onofredo Flay|2011
+
+
+
+
+
+List all books published before a certain year:
+9|047009075-8|nunc rhoncus SQL dui vel|Van Gibbons|2006
+11|165726893-4|et tempus semper est|Ninnetta Kinchington|2008
+13|104314908-2|volutpat in|Lorie Leer|2004
+17|026355636-0|justo sit amet|Corrie Ivanov|2004
+18|177051249-7|turpis seSQLd ante|Colline Pervoe|2004
+25|288125807-7|vestSQLibulum proin eu mi|Corrie Ivanov|2008
+28|895097231-X|at turpis|Ninnetta Kinchington|2006
+33|049466735-4|consequat varius|Arny Balden|2004
+37|208589241-8|sit amet consectetuer adipiscing|Rochette Butland|2007
+41|958494342-1|sit amet diam SQLin|Brinna Leavesley|2004
+45|483485687-9|eget eros|Judy Lyndon|2008
+55|846426137-3|risus auctor sed|Marshal Gilchrist|2007
+58|556319390-X|amet sapien dignissim|Andee Angrock|2008
+60|733919740-0|pede justo eu massa|Derward Brosch|2005
+63|141951249-8|praesent lectus vestSqlibulum quam|Marigold Ritchings|2004
+64|380296829-8|sagittis sapien|Marshal Gilchrist|2009
+67|596132381-1|nonummy integer non|Jamison Bagot|2007
+68|064976413-7|SQL ipsum praesent|Marshal Gilchrist|2005
+69|190419114-2|dapibus duis at|Rhodie Birth|2007
+77|573585188-8|id justo sit|Rhodie Birth|2006
+78|762188650-1|arcu libero|Jan Manntschke|2004
+79|146566602-8|vel augue vestibulum rutrum|Marshal Gilchrist|2008
+84|837469771-7|id justo sit|Marshal Gilchrist|2008
+88|609088513-4|viverra dapibus nulla suscipit|Rhodie Birth|2006
+90|251712474-4|sociis natoque|Sam Gockeler|2005
+96|011951005-7|SQLlacinia erat vestibulum|Sam Gockeler|2008
+
+
+
+
+
+Count the total number of books in the library:
+100
+
+
+
+
+
+Find books with titles containing a specific word:
+4|292755239-8|primis insqlsql|Kelley Holston|2018
+21|705930478-9|libero ut massqlsa|Corrie Ivanov|2012
+31|951421816-7|consectetuer adipissqlcing elit proin|Candra Raunds|2017
+43|778264059-8|semper porta sql|Marshal Gilchrist|2012
+61|929593581-0|sql suspendisse accumsan|Marshal Gilchrist|2023
+75|604568677-2|aliqsqluam lacus|Silvan England|2013
+81|464373120-6|sqlpraesent lectus|Noelyn Cargon|2017
+
+
+
+
+
+List all authors (without duplicates):
+Marlane Bennet
+Ninnetta Kinchington
+Judy Lyndon
+Thorsten Demaid
+Feodor Screase
+Jamison Bagot
+Laird Corrao
+Noelyn Cargon
+Yance Hinrichsen
+Silvan England
+Corrie Ivanov
+Kathy Comiam
+Rochette Butland
+Candra Raunds
+Sam Gockeler
+Andee Angrock
+Rhodie Birth
+Minni Fullerd
+Wynne Phlipon
+Derward Brosch
+Ashby Crinidge
+Gasper Hargess
+Arny Balden
+Harlie Gaither
+Jan Manntschke
+Van Gibbons
+Dana Braden
+Emmett Casotti
+Godiva Baptist
+Koenraad Chessum
+Leann Woliter
+Peta Garrish
+Devina Ellesmere
+Marshal Gilchrist
+Onofredo Flay
+Jennica Boot
+Blair Myner
+Colline Pervoe
+Marigold Ritchings
+Tedman Coulsen
+Brinna Leavesley
+Lorie Leer
+Constance Shurmore
+Janna Gurton
+Dew Stelfax
+Sheryl Freddi
+Dane Pomery
+Nahum Schott
+Nolana Rowson
+Kelley Holston
+
+
+
+
+
+Update the author name for all books by a specific author:
+5 rows affected.
+
+
+
+
+
+Delete all books published before a specific year:
+10 rows affected.
+
+
+
+
+
+Retrieve all books sorted by publication year (newest first):
+14|558769573-5|orci mauris|Homer Simpson|2023
+61|929593581-0|sql suspendisse accumsan|Marshal Gilchrist|2023
+53|267506304-5|etiam pretium iaculis|Yance Hinrichsen|2023
+50|094419547-4|primis in faucibus orci SQL|Homer Simpson|2023
+38|572951942-7|vestibulum ante ipsum primis|Homer Simpson|2023
+46|926305168-2|eleifend quam a|Nahum Schott|2023
+44|615032061-8|id mauris vulputate|Rhodie Birth|2023
+1|777251517-0|nisl ut voluSQLtpat|Homer Simpson|2023
+99|582483789-9|risus semper porta|Jennica Boot|2022
+40|768243209-8|lacus morbi sem mauris|Marlane Bennet|2022
+56|754109921-X|ultrices vel|Wynne Phlipon|2022
+39|588981892-9|ultricies eu|Marshal Gilchrist|2021
+15|211279870-7|nunc rhoncus dui vel|Van Gibbons|2021
+24|458247781-X|porttitor id|Dane Pomery|2021
+16|625113202-7|mauris non|Koenraad Chessum|2020
+87|452083861-4|morbi a|Jennica Boot|2020
+10|114360697-3|dui maecenas tristique est|Lorie Leer|2020
+70|551270535-0|at velit eu|Silvan England|2019
+8|613510107-2|orci luctus et ultrices|Gasper Hargess|2019
+49|282201469-8|tortor id nulla|Marshal Gilchrist|2019
+52|774845627-5|lectus in est|Minni Fullerd|2019
+98|121674116-6|vel ipsum|Blair Myner|2018
+35|978320946-9|pretium iaculis justo|Janna Gurton|2018
+4|292755239-8|primis insqlsql|Kelley Holston|2018
+72|574967192-5|mattis odio donec|Ninnetta Kinchington|2018
+65|864750027-X|ac neque|Emmett Casotti|2018
+22|769312934-0|neque vestibulum eget vulputate|Ashby Crinidge|2018
+42|630185040-8|sed vestibulum|Rhodie Birth|2018
+12|519674924-1|ipsum primis|Van Gibbons|2018
+89|987548411-3|sollicitudin vitae|Rhodie Birth|2018
+30|441042115-8|tortor duis|Emmett Casotti|2018
+81|464373120-6|sqlpraesent lectus|Noelyn Cargon|2017
+85|537081823-1|scelerisque quam turpis adipiscing|Sam Gockeler|2017
+6|064149064-X|lacinia sapien quis libero|Van Gibbons|2017
+31|951421816-7|consectetuer adipissqlcing elit proin|Candra Raunds|2017
+3|850460587-6|amet eros suspendisse accumsan|Harlie Gaither|2017
+48|498893095-5|congue etiam|Godiva Baptist|2017
+59|790901105-9|dui vel nisl duis|Rhodie Birth|2017
+92|227905490-6|augue quam|Feodor Screase|2017
+29|124642136-4|blandit non interdum|Thorsten Demaid|2016
+97|933292478-3|id massa|Jennica Boot|2016
+57|172136486-2|eu est congue elementum|Constance Shurmore|2016
+7|316170453-3|sapien ut nunc vestibulum|Rhodie Birth|2016
+20|504973234-4|ultrices phasellus|Dew Stelfax|2016
+83|037858720-X|dui vel|Jan Manntschke|2016
+23|939665768-9|ipsum dolor sit amet|Leann Woliter|2015
+54|719046623-1|tincidunt nulla mollis|Marshal Gilchrist|2015
+91|116763643-0|quisque ut|Kathy Comiam|2015
+47|914966439-5|aliquam erat|Nolana Rowson|2014
+5|433154349-8|eu orci|Nolana Rowson|2014
+71|785388611-X|sit amet|Silvan England|2014
+66|449401554-7|nulla ultrices aliquet|Nolana Rowson|2014
+34|280578597-5|quis augue luctus|Peta Garrish|2013
+75|604568677-2|aliqsqluam lacus|Silvan England|2013
+19|615866873-7|ac enim in tempor|Leann Woliter|2013
+74|701952925-9|est risus auctor|Marshal Gilchrist|2013
+73|539393441-6|rhoncus sed vestibulum|Judy Lyndon|2013
+80|658611310-5|praesent blandit|Leann Woliter|2013
+21|705930478-9|libero ut massqlsa|Corrie Ivanov|2012
+32|374785876-7|ut at SQL abcsd|Tedman Coulsen|2012
+51|217513518-7|semper sapien|Rhodie Birth|2012
+27|296820126-3|mi integer ac|Dane Pomery|2012
+26|964252289-6|non ligula pellentesque|Candra Raunds|2012
+95|453499910-0|in faucibus orci|Sam Gockeler|2012
+62|488578645-2|dui vel|Laird Corrao|2012
+94|101426589-4|eu mi|Tedman Coulsen|2012
+86|044893737-9|accumsan tellus nisi|Noelyn Cargon|2012
+43|778264059-8|semper porta sql|Marshal Gilchrist|2012
+2|896108262-0|ligula sit amet|Sheryl Freddi|2011
+36|325071768-1|primis in faucibus orci|Dana Braden|2011
+82|327262014-1|vitae nisl aenean|Homer Simpson|2011
+93|977882490-8|massa quis augue luctus|Jennica Boot|2010
+100|416144040-5|ipsum integer|Sam Gockeler|2010
+76|796922805-4|dapibus duis at|Devina Ellesmere|2010
+64|380296829-8|sagittis sapien|Marshal Gilchrist|2009
+84|837469771-7|id justo sit|Marshal Gilchrist|2008
+58|556319390-X|amet sapien dignissim|Andee Angrock|2008
+96|011951005-7|SQLlacinia erat vestibulum|Sam Gockeler|2008
+45|483485687-9|eget eros|Judy Lyndon|2008
+25|288125807-7|vestSQLibulum proin eu mi|Corrie Ivanov|2008
+11|165726893-4|et tempus semper est|Ninnetta Kinchington|2008
+79|146566602-8|vel augue vestibulum rutrum|Marshal Gilchrist|2008
+37|208589241-8|sit amet consectetuer adipiscing|Rochette Butland|2007
+67|596132381-1|nonummy integer non|Jamison Bagot|2007
+69|190419114-2|dapibus duis at|Rhodie Birth|2007
+55|846426137-3|risus auctor sed|Marshal Gilchrist|2007
+88|609088513-4|viverra dapibus nulla suscipit|Rhodie Birth|2006
+9|047009075-8|nunc rhoncus SQL dui vel|Van Gibbons|2006
+77|573585188-8|id justo sit|Rhodie Birth|2006
+28|895097231-X|at turpis|Ninnetta Kinchington|2006
+
+
+
+
+
+Find the oldest book in the library:
+9|047009075-8|nunc rhoncus SQL dui vel|Van Gibbons|2006
+
+
+
+
+
+Find the number of books published each year:
+2022|3
+2017|8
+2009|1
+2013|6
+2016|6
+2018|10
+2014|4
+2006|4
+2020|3
+2012|10
+2008|7
+2015|3
+2023|8
+2010|3
+2019|4
+2011|3
+2007|4
+2021|3
+
+
+
+
+
+List the top 5 most frequently occurring authors in the library:
+Marshal Gilchrist|10
+Rhodie Birth|9
+Homer Simpson|5
+Sam Gockeler|4
+Van Gibbons|4
+
+
+
+
+
+Identify books that have titles longer than 15 characters:
+amet eros suspendisse accumsan
+lacinia sapien quis libero
+sapien ut nunc vestibulum
+orci luctus et ultrices
+nunc rhoncus SQL dui vel
+dui maecenas tristique est
+et tempus semper est
+nunc rhoncus dui vel
+ac enim in tempor
+ultrices phasellus
+libero ut massqlsa
+neque vestibulum eget vulputate
+ipsum dolor sit amet
+vestSQLibulum proin eu mi
+non ligula pellentesque
+blandit non interdum
+consectetuer adipissqlcing elit proin
+quis augue luctus
+pretium iaculis justo
+primis in faucibus orci
+sit amet consectetuer adipiscing
+lacus morbi sem mauris
+semper porta sql
+id mauris vulputate
+etiam pretium iaculis
+tincidunt nulla mollis
+risus auctor sed
+eu est congue elementum
+amet sapien dignissim
+dui vel nisl duis
+sql suspendisse accumsan
+nulla ultrices aliquet
+nonummy integer non
+mattis odio donec
+rhoncus sed vestibulum
+est risus auctor
+aliqsqluam lacus
+vel augue vestibulum rutrum
+praesent blandit
+sqlpraesent lectus
+scelerisque quam turpis adipiscing
+accumsan tellus nisi
+viverra dapibus nulla suscipit
+sollicitudin vitae
+massa quis augue luctus
+in faucibus orci
+SQLlacinia erat vestibulum
+risus semper porta
+nisl ut voluSQLtpat
+vestibulum ante ipsum primis
+primis in faucibus orci SQL
+vitae nisl aenean
+
+
+
+
+
+Calculate the average publication year of all books in the library:
+2014.8888888888888889
+
+
+
+
+
+Select all authors who have published more than one book in the same year:
+Leann Woliter
+Emmett Casotti
+Homer Simpson
+Rhodie Birth
+Rhodie Birth
+Marshal Gilchrist
+Nolana Rowson
+Tedman Coulsen
+
+
+
+
+
